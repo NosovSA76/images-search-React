@@ -1,8 +1,8 @@
 {
-  "name": "goit-react-hw-04-images",
+  "name": "images-search-React",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://NosovSA76.github.io/goit-react-hw-04-images/",
+  "homepage": "https://NosovSA76.github.io/images-search-React/",
   "dependencies": {
     "@emotion/react": "^11.10.6",
     "@testing-library/jest-dom": "^5.16.3",
